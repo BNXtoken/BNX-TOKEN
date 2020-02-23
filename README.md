@@ -1,0 +1,2 @@
+# BNX-TOKEN
+Binmax exchange
